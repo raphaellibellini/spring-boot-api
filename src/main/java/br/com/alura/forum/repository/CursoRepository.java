@@ -1,4 +1,4 @@
-package br.com.alura.forum.controller.repository;
+package br.com.alura.forum.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
